@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "TEMPLATE",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-18T05:12:49.927417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TEMPLATE",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/01_TEMPLATE_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TEMPLATE",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_TEMPLATE_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eulogy Template",
+      "artist": "Baptists",
+      "has_synced": false,
+      "path": "select/03_Eulogy_Template_Baptists.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Template",
+      "artist": "Popsicle",
+      "has_synced": false,
+      "path": "select/04_Template_Popsicle.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TEMPLATE",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/05_TEMPLATE_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Template of Nothingness",
+      "artist": "Oria",
+      "has_synced": true,
+      "path": "select/06_Template_of_Nothingness_Oria.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TEMPLATE",
+      "artist": "Hoshimachi, Suisei",
+      "has_synced": true,
+      "path": "select/07_TEMPLATE_Hoshimachi,_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEMPLATE",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_TEMPLATE_星街すいせい.txt"
+    }
+  ]
+}
